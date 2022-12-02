@@ -20,3 +20,4 @@ Background:
       | TestPassword@05  | TestPassword@04 | TestPassword@04 |
     And User click on Change Password button again
     Then a message should be displayed again Password Updated Successfully
+	# THIS FEATURE IS NEW
