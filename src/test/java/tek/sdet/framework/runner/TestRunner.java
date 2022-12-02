@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(	
-        tags = "@test11",
+        tags = "",
         features = ("classpath:features"),
         glue="tek.sdet.framework",
         dryRun = false,

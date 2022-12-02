@@ -42,6 +42,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@Then("User should be logged into account page")
 	public void userShouldBeLoggedIntoAccountPage() {
+		slowDown();
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().yourProfileText));
 		Assert.assertTrue(isElementDisplayed(factory.accountPage().updateButton));
 		logger.info("Both elements are displayed after successfully creating account");
@@ -105,6 +106,29 @@ public class RetailAccountSteps extends CommonUtility {
 //		Assert.assertTrue(isElementDisplayed(factory.accountPage().passwordUpdatedSuccessfullyMessage)); 
 //		logger.info("A successful password updated message appears");
 		
+		Assert.assertTrue(isElementDisplayed(getWebElementByTextUsingDiv("Password Updated Successfully")));
+		logger.info("A successful password updated message appears");
+	}
+	/////////////////////////////////////////////////CHANGES MADE FOR NEW FEATURE FILE
+	
+	@And("User enter below information again")
+	public void userEnterBelowInformationAgain(DataTable data) {
+		List<Map<String, String>> signUpInfo = data.asMaps(String.class, String.class);
+		sendText(factory.accountPage().previousPasswordInput, signUpInfo.get(0).get("previousPassword"));
+		sendText(factory.accountPage().newPasswordInput, signUpInfo.get(0).get("newPassword"));
+		sendText(factory.accountPage().confirmPasswordInpt, signUpInfo.get(0).get("confirmPassword"));
+		logger.info("User sent all required information again");
+	}
+	
+	@And("User click on Change Password button again")
+	public void userClickOnChangePasswordButtonAgain() {
+		click(factory.accountPage().changePasswordButton);
+		logger.info("User clicked on change password button again to revert to original password");
+	}
+	
+	@Then("a message should be displayed again Password Updated Successfully")
+	public void aMessageShouldBeDisplayedAgainPasswordUpdatedSuccessfull() {
+		slowDown();		
 		Assert.assertTrue(isElementDisplayed(getWebElementByTextUsingDiv("Password Updated Successfully")));
 		logger.info("A successful password updated message appears");
 	}

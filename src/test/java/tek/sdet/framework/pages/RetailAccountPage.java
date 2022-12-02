@@ -26,7 +26,7 @@ public WebElement confirmPasswordInput;
 @FindBy(id="signupBtn")
 public WebElement signUpButton;
 
-@FindBy(xpath = "//h1[@class='account__personal-title']") 
+@FindBy(xpath = "//h1[text()='Your Profile']") 
 public WebElement yourProfileText;
 
 @FindBy(id="personalUpdateBtn")
@@ -38,7 +38,7 @@ public WebElement personalInformationUpdateMessage;
 @FindBy(id="accountLink")
 public WebElement accountButton;
 
-@FindBy(id="phoneNumberInput")
+@FindBy(id="personalPhoneInput")
 public WebElement phoneNumberInput;
 
 
@@ -112,8 +112,8 @@ public WebElement addressCountryDropdown;
 
 @FindBy(id="fullNameInput")
 public WebElement addressFullNameInput;
-
-@FindBy(xpath="(//input[@id='phoneNumberInput'][@name='phoneNumber'])[2]")
+////////////////////////////////////////////////////////////changes made here
+@FindBy(xpath="//input[@id='phoneNumberInput']")
 public WebElement addressPhoneNumberInput;
 
 @FindBy(id="streetInput")

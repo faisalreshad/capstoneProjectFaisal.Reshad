@@ -1957,3 +1957,1715 @@
 2022-11-15 15:10:36,154 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
 2022-11-15 15:10:36,232 - logger_File -INFO - User clicked on All sidebar
 2022-11-15 15:10:36,344 - logger_File -INFO - All tabs are currently displayed
+2022-11-17 19:09:47,972 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-17 19:09:48,079 - logger_File -INFO - User clicked on signIn button
+2022-11-17 19:09:48,256 - logger_File -INFO - User sent both email and password
+2022-11-17 19:09:48,317 - logger_File -INFO - User clicked on log in button
+2022-11-17 19:09:48,520 - logger_File -INFO - User should be able to see logout button
+2022-11-17 19:09:48,596 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-17 19:09:48,678 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-17 19:09:48,738 - logger_File -INFO - user clicked on search button
+2022-11-17 19:09:48,862 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-17 19:09:48,993 - logger_File -INFO - user selected 2 from dropdown
+2022-11-17 19:09:49,076 - logger_File -INFO - User clicked on add to cart button
+2022-11-17 19:09:49,097 - logger_File -INFO - Cart button displays 2
+2022-11-17 19:09:49,177 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-17 19:09:49,269 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-17 19:09:49,364 - logger_File -INFO - User clicked on add a new address link
+2022-11-17 19:09:49,949 - logger_File -INFO - User entered all required address fields
+2022-11-17 19:09:50,049 - logger_File -INFO - User clicked on add your address button
+2022-11-17 19:09:50,184 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-17 19:09:50,572 - logger_File -INFO - User filled out all requested information boxes
+2022-11-17 19:09:50,635 - logger_File -INFO - User clicked on add your card
+2022-11-17 19:09:50,706 - logger_File -INFO - User clicked on place your order button
+2022-11-17 19:09:50,856 - logger_File -INFO - Messaged appears!
+2022-11-29 21:37:18,417 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:18,510 - logger_File -INFO - User clicked on All sidebar
+2022-11-29 21:37:18,617 - logger_File -INFO - All tabs are currently displayed
+2022-11-29 21:37:20,946 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:21,023 - logger_File -INFO - User clicked on All sidebar
+2022-11-29 21:37:21,091 - logger_File -INFO - user is selecting department = Electronics
+2022-11-29 21:37:21,091 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-29 21:37:23,473 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:23,552 - logger_File -INFO - User clicked on All sidebar
+2022-11-29 21:37:23,624 - logger_File -INFO - user is selecting department = Computers
+2022-11-29 21:37:23,626 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-29 21:37:26,015 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:26,092 - logger_File -INFO - User clicked on All sidebar
+2022-11-29 21:37:26,157 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-29 21:37:26,157 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-29 21:37:28,550 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:28,629 - logger_File -INFO - User clicked on All sidebar
+2022-11-29 21:37:28,694 - logger_File -INFO - user is selecting department = Sports
+2022-11-29 21:37:28,695 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-29 21:37:31,009 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:31,082 - logger_File -INFO - User clicked on All sidebar
+2022-11-29 21:37:31,152 - logger_File -INFO - user is selecting department = Automotive
+2022-11-29 21:37:31,152 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-29 21:37:33,500 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:33,596 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:37:33,780 - logger_File -INFO - User sent both email and password
+2022-11-29 21:37:33,838 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:37:34,042 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:37:34,141 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-29 21:37:34,249 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-29 21:37:34,331 - logger_File -INFO - user clicked on search button
+2022-11-29 21:37:34,472 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-29 21:37:34,626 - logger_File -INFO - user selected 2 from dropdown
+2022-11-29 21:37:34,729 - logger_File -INFO - User clicked on add to cart button
+2022-11-29 21:37:34,815 - logger_File -INFO - Cart button displays 2
+2022-11-29 21:37:37,214 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:37,313 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:37:37,498 - logger_File -INFO - User sent both email and password
+2022-11-29 21:37:37,554 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:37:37,784 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:37:37,869 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-29 21:37:37,968 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-29 21:37:38,046 - logger_File -INFO - user clicked on search button
+2022-11-29 21:37:38,222 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-29 21:37:38,371 - logger_File -INFO - user selected 2 from dropdown
+2022-11-29 21:37:38,472 - logger_File -INFO - User clicked on add to cart button
+2022-11-29 21:37:38,498 - logger_File -INFO - Cart button displays 2
+2022-11-29 21:37:38,607 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-29 21:37:38,709 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-29 21:37:38,813 - logger_File -INFO - User clicked on add a new address link
+2022-11-29 21:37:39,581 - logger_File -INFO - User entered all required address fields
+2022-11-29 21:37:39,722 - logger_File -INFO - User clicked on add your address button
+2022-11-29 21:37:39,819 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-29 21:37:40,306 - logger_File -INFO - User filled out all requested information boxes
+2022-11-29 21:37:40,390 - logger_File -INFO - User clicked on add your card
+2022-11-29 21:37:44,115 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:44,223 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:37:44,413 - logger_File -INFO - User sent both email and password
+2022-11-29 21:37:44,473 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:37:44,681 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:37:44,762 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-29 21:37:44,848 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-29 21:37:44,936 - logger_File -INFO - user clicked on search button
+2022-11-29 21:37:45,077 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-29 21:37:45,217 - logger_File -INFO - user selected 5 from dropdown
+2022-11-29 21:37:45,313 - logger_File -INFO - User clicked on add to cart button
+2022-11-29 21:37:45,337 - logger_File -INFO - Cart button displays 5
+2022-11-29 21:37:45,451 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-29 21:37:45,550 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-29 21:37:45,643 - logger_File -INFO - User clicked on place your order button
+2022-11-29 21:37:45,807 - logger_File -INFO - Messaged appears!
+2022-11-29 21:37:48,100 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:37:48,212 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:37:48,392 - logger_File -INFO - User sent both email and password
+2022-11-29 21:37:48,453 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:37:48,686 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:37:48,830 - logger_File -INFO - User clicked on account button
+2022-11-29 21:38:11,537 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:38:11,625 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:38:11,807 - logger_File -INFO - User sent both email and password
+2022-11-29 21:38:11,864 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:38:12,075 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:38:12,207 - logger_File -INFO - User clicked on account button
+2022-11-29 21:38:12,460 - logger_File -INFO - User sent all required information
+2022-11-29 21:38:12,532 - logger_File -INFO - User clicked on change password button
+2022-11-29 21:38:39,994 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:38:40,175 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:38:40,358 - logger_File -INFO - User sent both email and password
+2022-11-29 21:38:40,439 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:38:40,659 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:38:40,783 - logger_File -INFO - User clicked on account button
+2022-11-29 21:38:40,880 - logger_File -INFO - User clicked on add your payment link
+2022-11-29 21:38:41,271 - logger_File -INFO - User filled out all requested information boxes
+2022-11-29 21:38:41,360 - logger_File -INFO - User clicked on add your card
+2022-11-29 21:38:46,395 - logger_File -INFO - Payment was added successfully message
+2022-11-29 21:38:48,735 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:38:48,829 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:38:49,010 - logger_File -INFO - User sent both email and password
+2022-11-29 21:38:49,071 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:38:49,282 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:38:49,418 - logger_File -INFO - User clicked on account button
+2022-11-29 21:38:49,840 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-29 21:38:50,258 - logger_File -INFO - user clicked on update your card button
+2022-11-29 21:38:55,283 - logger_File -INFO - Payment method updated message should appear!
+2022-11-29 21:38:57,625 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:38:57,709 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:38:57,879 - logger_File -INFO - User sent both email and password
+2022-11-29 21:38:57,930 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:38:58,146 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:38:58,285 - logger_File -INFO - User clicked on account button
+2022-11-29 21:38:58,462 - logger_File -INFO - user clicked on remove link
+2022-11-29 21:38:58,487 - logger_File -INFO - remove link not present
+2022-11-29 21:39:00,763 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:39:00,849 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:39:01,029 - logger_File -INFO - User sent both email and password
+2022-11-29 21:39:01,081 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:39:01,294 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:39:01,442 - logger_File -INFO - User clicked on account button
+2022-11-29 21:39:01,553 - logger_File -INFO - User clicked on add address button
+2022-11-29 21:39:44,203 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:39:44,363 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:39:44,535 - logger_File -INFO - User sent both email and password
+2022-11-29 21:39:44,593 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:39:45,056 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:39:45,192 - logger_File -INFO - User clicked on account button
+2022-11-29 21:39:45,296 - logger_File -INFO - User clicked on Edit link
+2022-11-29 21:40:07,897 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:40:07,996 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:40:08,174 - logger_File -INFO - User sent both email and password
+2022-11-29 21:40:08,239 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:40:08,890 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:40:09,016 - logger_File -INFO - User clicked on account button
+2022-11-29 21:40:09,170 - logger_File -INFO - User clicked on remove link under current address
+2022-11-29 21:40:09,192 - logger_File -INFO - Remove link under added address should not be present
+2022-11-29 21:40:11,511 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:40:11,601 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:40:11,789 - logger_File -INFO - User sent both email and password
+2022-11-29 21:40:11,844 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:40:12,170 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:40:12,302 - logger_File -INFO - User clicked on orders button
+2022-11-29 21:40:12,396 - logger_File -INFO - User clicked on show details link under orders
+2022-11-29 21:40:12,468 - logger_File -INFO - User clicked on cancel the order button
+2022-11-29 21:40:12,547 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-29 21:40:12,623 - logger_File -INFO - User clicked on cancel order button
+2022-11-29 21:40:12,704 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-29 21:40:14,925 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:40:15,093 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:40:15,269 - logger_File -INFO - User sent both email and password
+2022-11-29 21:40:15,320 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:40:15,782 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:40:15,882 - logger_File -INFO - User clicked on orders button
+2022-11-29 21:40:16,031 - logger_File -INFO - User clicked on show details link under orders
+2022-11-29 21:40:16,127 - logger_File -INFO - User clicked on return items button
+2022-11-29 21:40:16,209 - logger_File -INFO - User selected item damaged from dropdown menu
+2022-11-29 21:40:16,287 - logger_File -INFO - User selected FedEx from dropdown menu
+2022-11-29 21:40:16,368 - logger_File -INFO - User clicked on return order button
+2022-11-29 21:40:38,863 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:40:38,962 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:40:39,164 - logger_File -INFO - User sent both email and password
+2022-11-29 21:40:39,218 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:40:39,432 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:40:39,556 - logger_File -INFO - User clicked on orders button
+2022-11-29 21:40:39,660 - logger_File -INFO - User clicked on show details link under orders
+2022-11-29 21:40:39,743 - logger_File -INFO - User clicked on review button under orders
+2022-11-29 21:40:40,163 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-29 21:40:40,227 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-29 21:40:45,255 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-29 21:40:47,616 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:40:47,713 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:40:47,885 - logger_File -INFO - User sent both email and password
+2022-11-29 21:40:47,942 - logger_File -INFO - User clicked on log in button
+2022-11-29 21:40:48,157 - logger_File -INFO - User should be able to see logout button
+2022-11-29 21:40:50,430 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-29 21:40:50,518 - logger_File -INFO - User clicked on signIn button
+2022-11-29 21:40:50,592 - logger_File -INFO - User clicked on create account button
+2022-11-29 21:40:50,930 - logger_File -INFO - User entered all required fields to create account
+2022-11-29 21:40:51,001 - logger_File -INFO - User clicked on sign up button
+2022-11-29 21:40:51,243 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 08:27:20,264 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:20,357 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 08:27:20,568 - logger_File -INFO - All tabs are currently displayed
+2022-11-30 08:27:24,953 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:25,043 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 08:27:25,285 - logger_File -INFO - user is selecting department = Electronics
+2022-11-30 08:27:25,286 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-30 08:27:29,451 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:29,539 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 08:27:29,943 - logger_File -INFO - user is selecting department = Computers
+2022-11-30 08:27:29,944 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-30 08:27:33,634 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:33,715 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 08:27:33,813 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-30 08:27:33,813 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-30 08:27:37,595 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:37,682 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 08:27:38,039 - logger_File -INFO - user is selecting department = Sports
+2022-11-30 08:27:38,040 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-30 08:27:42,237 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:42,315 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 08:27:42,415 - logger_File -INFO - user is selecting department = Automotive
+2022-11-30 08:27:42,415 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-30 08:27:45,558 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:45,667 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:27:45,899 - logger_File -INFO - User sent both email and password
+2022-11-30 08:27:45,982 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:27:46,452 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:27:46,546 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 08:27:46,642 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 08:27:46,736 - logger_File -INFO - user clicked on search button
+2022-11-30 08:27:47,125 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 08:27:47,418 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 08:27:47,501 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 08:27:47,746 - logger_File -INFO - Cart button displays 2
+2022-11-30 08:27:51,371 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:27:51,491 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:27:51,693 - logger_File -INFO - User sent both email and password
+2022-11-30 08:27:51,779 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:27:52,128 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:27:52,208 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 08:27:52,312 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 08:27:52,409 - logger_File -INFO - user clicked on search button
+2022-11-30 08:27:52,879 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 08:27:53,336 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 08:27:53,414 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 08:27:53,442 - logger_File -INFO - Cart button displays 2
+2022-11-30 08:27:53,537 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 08:27:53,643 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 08:27:53,749 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 08:27:54,499 - logger_File -INFO - User entered all required address fields
+2022-11-30 08:27:54,622 - logger_File -INFO - User clicked on add your address button
+2022-11-30 08:27:54,784 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 08:27:55,261 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 08:27:55,355 - logger_File -INFO - User clicked on add your card
+2022-11-30 08:27:59,915 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:28:00,046 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:28:00,282 - logger_File -INFO - User sent both email and password
+2022-11-30 08:28:00,355 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:28:00,696 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:28:00,769 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 08:28:00,861 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 08:28:00,938 - logger_File -INFO - user clicked on search button
+2022-11-30 08:28:01,225 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 08:28:01,496 - logger_File -INFO - user selected 5 from dropdown
+2022-11-30 08:28:01,568 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 08:28:01,592 - logger_File -INFO - Cart button displays 5
+2022-11-30 08:28:01,678 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 08:28:01,805 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 08:28:01,889 - logger_File -INFO - User clicked on place your order button
+2022-11-30 08:28:02,240 - logger_File -INFO - Messaged appears!
+2022-11-30 08:28:05,387 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:28:05,501 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:28:05,715 - logger_File -INFO - User sent both email and password
+2022-11-30 08:28:05,798 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:28:06,141 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:28:06,259 - logger_File -INFO - User clicked on account button
+2022-11-30 08:28:30,792 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:28:30,955 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:28:31,205 - logger_File -INFO - User sent both email and password
+2022-11-30 08:28:31,302 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:28:32,081 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:28:32,301 - logger_File -INFO - User clicked on account button
+2022-11-30 08:28:32,656 - logger_File -INFO - User sent all required information
+2022-11-30 08:28:32,779 - logger_File -INFO - User clicked on change password button
+2022-11-30 08:29:01,330 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:29:01,516 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:29:01,801 - logger_File -INFO - User sent both email and password
+2022-11-30 08:29:01,924 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:29:02,393 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:29:02,542 - logger_File -INFO - User clicked on account button
+2022-11-30 08:29:02,661 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 08:29:03,187 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 08:29:03,297 - logger_File -INFO - User clicked on add your card
+2022-11-30 08:29:32,129 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:29:32,275 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:29:32,506 - logger_File -INFO - User sent both email and password
+2022-11-30 08:29:32,602 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:29:32,985 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:29:33,169 - logger_File -INFO - User clicked on account button
+2022-11-30 08:29:34,309 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 08:29:34,906 - logger_File -INFO - user clicked on update your card button
+2022-11-30 08:29:39,960 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 08:29:43,308 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:29:43,448 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:29:43,688 - logger_File -INFO - User sent both email and password
+2022-11-30 08:29:43,786 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:29:44,152 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:29:44,306 - logger_File -INFO - User clicked on account button
+2022-11-30 08:29:45,334 - logger_File -INFO - user clicked on remove link
+2022-11-30 08:29:45,360 - logger_File -INFO - remove link not present
+2022-11-30 08:29:48,345 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:29:48,521 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:29:48,784 - logger_File -INFO - User sent both email and password
+2022-11-30 08:29:48,868 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:29:49,201 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:29:49,352 - logger_File -INFO - User clicked on account button
+2022-11-30 08:29:49,492 - logger_File -INFO - User clicked on add address button
+2022-11-30 08:30:33,424 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:30:33,580 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:30:33,809 - logger_File -INFO - User sent both email and password
+2022-11-30 08:30:33,922 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:30:34,305 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:30:34,471 - logger_File -INFO - User clicked on account button
+2022-11-30 08:30:34,678 - logger_File -INFO - User clicked on Edit link
+2022-11-30 08:30:58,509 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:30:58,657 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:30:58,925 - logger_File -INFO - User sent both email and password
+2022-11-30 08:30:59,047 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:30:59,434 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:30:59,595 - logger_File -INFO - User clicked on account button
+2022-11-30 08:30:59,746 - logger_File -INFO - User clicked on remove link under current address
+2022-11-30 08:30:59,769 - logger_File -INFO - Remove link under added address should not be present
+2022-11-30 08:31:03,043 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:31:03,147 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:31:03,373 - logger_File -INFO - User sent both email and password
+2022-11-30 08:31:03,446 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:31:03,789 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:31:03,878 - logger_File -INFO - User clicked on orders button
+2022-11-30 08:31:04,227 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 08:31:04,322 - logger_File -INFO - User clicked on cancel the order button
+2022-11-30 08:31:04,387 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-30 08:31:04,453 - logger_File -INFO - User clicked on cancel order button
+2022-11-30 08:31:04,722 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-30 08:31:07,922 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:31:08,027 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:31:08,245 - logger_File -INFO - User sent both email and password
+2022-11-30 08:31:08,325 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:31:08,696 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:31:08,789 - logger_File -INFO - User clicked on orders button
+2022-11-30 08:31:09,284 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 08:31:53,244 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:31:53,351 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:31:53,562 - logger_File -INFO - User sent both email and password
+2022-11-30 08:31:53,649 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:31:53,976 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:31:54,073 - logger_File -INFO - User clicked on orders button
+2022-11-30 08:31:54,390 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 08:31:54,483 - logger_File -INFO - User clicked on review button under orders
+2022-11-30 08:31:54,915 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-30 08:31:54,999 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-30 08:32:00,041 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-30 08:32:03,209 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:32:03,412 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:32:03,665 - logger_File -INFO - User sent both email and password
+2022-11-30 08:32:03,755 - logger_File -INFO - User clicked on log in button
+2022-11-30 08:32:04,119 - logger_File -INFO - User should be able to see logout button
+2022-11-30 08:32:07,270 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 08:32:07,396 - logger_File -INFO - User clicked on signIn button
+2022-11-30 08:32:07,490 - logger_File -INFO - User clicked on create account button
+2022-11-30 08:32:07,948 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 08:32:08,038 - logger_File -INFO - User clicked on sign up button
+2022-11-30 09:29:38,728 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:29:38,880 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:29:38,994 - logger_File -INFO - User clicked on create account button
+2022-11-30 09:29:39,424 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 09:29:39,517 - logger_File -INFO - User clicked on sign up button
+2022-11-30 09:29:44,636 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 09:30:56,610 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:30:56,707 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 09:30:56,846 - logger_File -INFO - All tabs are currently displayed
+2022-11-30 09:31:00,917 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:01,012 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 09:31:01,308 - logger_File -INFO - user is selecting department = Electronics
+2022-11-30 09:31:01,310 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-30 09:31:05,831 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:05,930 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 09:31:06,106 - logger_File -INFO - user is selecting department = Computers
+2022-11-30 09:31:06,109 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-30 09:31:09,400 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:09,509 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 09:31:09,596 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-30 09:31:09,597 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-30 09:31:13,018 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:13,125 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 09:31:13,217 - logger_File -INFO - user is selecting department = Sports
+2022-11-30 09:31:13,218 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-30 09:31:16,957 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:17,048 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 09:31:17,142 - logger_File -INFO - user is selecting department = Automotive
+2022-11-30 09:31:17,143 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-30 09:31:21,303 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:21,436 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:31:21,662 - logger_File -INFO - User sent both email and password
+2022-11-30 09:31:21,747 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:31:22,175 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:31:22,268 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 09:31:22,361 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 09:31:22,444 - logger_File -INFO - user clicked on search button
+2022-11-30 09:31:22,981 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 09:31:23,245 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 09:31:23,325 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 09:31:23,555 - logger_File -INFO - Cart button displays 2
+2022-11-30 09:31:26,669 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:26,789 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:31:27,021 - logger_File -INFO - User sent both email and password
+2022-11-30 09:31:27,127 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:31:27,431 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:31:27,516 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 09:31:27,613 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 09:31:27,706 - logger_File -INFO - user clicked on search button
+2022-11-30 09:31:27,975 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 09:31:28,319 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 09:31:28,400 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 09:31:28,420 - logger_File -INFO - Cart button displays 2
+2022-11-30 09:31:28,506 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 09:31:28,608 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 09:31:28,715 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 09:31:29,461 - logger_File -INFO - User entered all required address fields
+2022-11-30 09:31:29,586 - logger_File -INFO - User clicked on add your address button
+2022-11-30 09:31:29,747 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 09:31:30,270 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 09:31:30,383 - logger_File -INFO - User clicked on add your card
+2022-11-30 09:31:34,885 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:35,001 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:31:35,224 - logger_File -INFO - User sent both email and password
+2022-11-30 09:31:35,314 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:31:35,614 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:31:35,701 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 09:31:35,812 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 09:31:35,909 - logger_File -INFO - user clicked on search button
+2022-11-30 09:31:36,224 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 09:31:36,584 - logger_File -INFO - user selected 5 from dropdown
+2022-11-30 09:31:36,661 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 09:31:36,680 - logger_File -INFO - Cart button displays 5
+2022-11-30 09:31:36,795 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 09:31:36,907 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 09:31:36,995 - logger_File -INFO - User clicked on place your order button
+2022-11-30 09:31:37,338 - logger_File -INFO - Messaged appears!
+2022-11-30 09:31:40,406 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:31:40,535 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:31:40,759 - logger_File -INFO - User sent both email and password
+2022-11-30 09:31:40,840 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:31:41,246 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:31:41,366 - logger_File -INFO - User clicked on account button
+2022-11-30 09:32:05,537 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:32:05,711 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:32:06,031 - logger_File -INFO - User sent both email and password
+2022-11-30 09:32:06,143 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:32:06,553 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:32:06,728 - logger_File -INFO - User clicked on account button
+2022-11-30 09:32:07,083 - logger_File -INFO - User sent all required information
+2022-11-30 09:32:07,186 - logger_File -INFO - User clicked on change password button
+2022-11-30 09:32:35,876 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:32:36,039 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:32:36,316 - logger_File -INFO - User sent both email and password
+2022-11-30 09:32:36,424 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:32:36,739 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:32:36,954 - logger_File -INFO - User clicked on account button
+2022-11-30 09:32:37,053 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 09:32:37,559 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 09:32:37,669 - logger_File -INFO - User clicked on add your card
+2022-11-30 09:33:06,301 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:33:06,463 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:33:06,740 - logger_File -INFO - User sent both email and password
+2022-11-30 09:33:06,843 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:33:07,211 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:33:07,399 - logger_File -INFO - User clicked on account button
+2022-11-30 09:33:08,502 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 09:33:09,020 - logger_File -INFO - user clicked on update your card button
+2022-11-30 09:33:14,077 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 09:33:17,419 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:33:17,569 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:33:17,809 - logger_File -INFO - User sent both email and password
+2022-11-30 09:33:17,921 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:33:18,401 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:33:18,585 - logger_File -INFO - User clicked on account button
+2022-11-30 09:33:19,716 - logger_File -INFO - user clicked on remove link
+2022-11-30 09:33:19,748 - logger_File -INFO - remove link not present
+2022-11-30 09:33:22,954 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:33:23,121 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:33:23,362 - logger_File -INFO - User sent both email and password
+2022-11-30 09:33:23,477 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:33:23,869 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:33:24,011 - logger_File -INFO - User clicked on account button
+2022-11-30 09:33:24,137 - logger_File -INFO - User clicked on add address button
+2022-11-30 09:34:08,142 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:34:08,278 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:34:08,508 - logger_File -INFO - User sent both email and password
+2022-11-30 09:34:08,609 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:34:08,910 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:34:09,070 - logger_File -INFO - User clicked on account button
+2022-11-30 09:34:09,312 - logger_File -INFO - User clicked on Edit link
+2022-11-30 09:34:33,117 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:34:33,279 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:34:33,499 - logger_File -INFO - User sent both email and password
+2022-11-30 09:34:33,612 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:34:34,167 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:34:34,335 - logger_File -INFO - User clicked on account button
+2022-11-30 09:34:34,686 - logger_File -INFO - User clicked on remove link under current address
+2022-11-30 09:34:34,703 - logger_File -INFO - Remove link under added address should not be present
+2022-11-30 09:34:37,714 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:34:37,824 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:34:38,047 - logger_File -INFO - User sent both email and password
+2022-11-30 09:34:38,118 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:34:38,428 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:34:38,527 - logger_File -INFO - User clicked on orders button
+2022-11-30 09:34:38,847 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 09:34:38,941 - logger_File -INFO - User clicked on cancel the order button
+2022-11-30 09:34:39,014 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-30 09:34:39,115 - logger_File -INFO - User clicked on cancel order button
+2022-11-30 09:34:39,398 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-30 09:34:42,480 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:34:42,591 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:34:42,865 - logger_File -INFO - User sent both email and password
+2022-11-30 09:34:42,953 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:34:43,244 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:34:43,344 - logger_File -INFO - User clicked on orders button
+2022-11-30 09:34:43,690 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 09:35:28,239 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:35:28,417 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:35:28,678 - logger_File -INFO - User sent both email and password
+2022-11-30 09:35:28,783 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:35:29,316 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:35:29,457 - logger_File -INFO - User clicked on orders button
+2022-11-30 09:35:29,662 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 09:35:29,778 - logger_File -INFO - User clicked on review button under orders
+2022-11-30 09:35:30,251 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-30 09:35:30,359 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-30 09:35:35,409 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-30 09:35:39,553 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:35:39,708 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:35:39,942 - logger_File -INFO - User sent both email and password
+2022-11-30 09:35:40,030 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:35:40,633 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:35:44,046 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:35:44,217 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:35:44,358 - logger_File -INFO - User clicked on create account button
+2022-11-30 09:35:44,861 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 09:35:44,963 - logger_File -INFO - User clicked on sign up button
+2022-11-30 09:35:50,019 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 09:45:26,009 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:45:26,171 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:45:26,432 - logger_File -INFO - User sent both email and password
+2022-11-30 09:45:26,557 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:45:26,952 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:45:29,930 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:45:30,078 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:45:30,216 - logger_File -INFO - User clicked on create account button
+2022-11-30 09:45:30,769 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 09:45:30,857 - logger_File -INFO - User clicked on sign up button
+2022-11-30 09:46:18,037 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:46:18,193 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:46:18,431 - logger_File -INFO - User sent both email and password
+2022-11-30 09:46:18,519 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:46:18,907 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:46:22,400 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:46:22,543 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:46:22,651 - logger_File -INFO - User clicked on create account button
+2022-11-30 09:46:23,119 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 09:46:23,216 - logger_File -INFO - User clicked on sign up button
+2022-11-30 09:46:28,278 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 09:46:31,623 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:46:31,743 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:46:32,000 - logger_File -INFO - User sent both email and password
+2022-11-30 09:46:32,112 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:46:33,091 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:46:33,224 - logger_File -INFO - User clicked on account button
+2022-11-30 09:55:06,011 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:55:06,154 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:55:06,410 - logger_File -INFO - User sent both email and password
+2022-11-30 09:55:06,500 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:55:06,896 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:55:09,971 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:55:10,124 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:55:10,253 - logger_File -INFO - User clicked on create account button
+2022-11-30 09:55:10,760 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 09:55:10,858 - logger_File -INFO - User clicked on sign up button
+2022-11-30 09:55:15,952 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 09:55:19,496 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:55:19,701 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:55:20,066 - logger_File -INFO - User sent both email and password
+2022-11-30 09:55:20,181 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:55:20,643 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:55:20,833 - logger_File -INFO - User clicked on account button
+2022-11-30 09:55:21,263 - logger_File -INFO - User sent required fields to update information
+2022-11-30 09:55:21,427 - logger_File -INFO - User clicked on update button
+2022-11-30 09:55:26,517 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 09:55:29,946 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:55:30,176 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:55:30,534 - logger_File -INFO - User sent both email and password
+2022-11-30 09:55:30,696 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:55:31,109 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:55:31,302 - logger_File -INFO - User clicked on account button
+2022-11-30 09:55:31,693 - logger_File -INFO - User sent all required information
+2022-11-30 09:55:31,849 - logger_File -INFO - User clicked on change password button
+2022-11-30 09:56:02,090 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:56:02,196 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:56:02,462 - logger_File -INFO - User sent both email and password
+2022-11-30 09:56:02,558 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:56:02,957 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:56:03,080 - logger_File -INFO - User clicked on account button
+2022-11-30 09:56:03,165 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 09:56:03,713 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 09:56:03,795 - logger_File -INFO - User clicked on add your card
+2022-11-30 09:56:33,151 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:56:33,302 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:56:33,567 - logger_File -INFO - User sent both email and password
+2022-11-30 09:56:33,688 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:56:34,044 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:56:34,204 - logger_File -INFO - User clicked on account button
+2022-11-30 09:56:35,257 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 09:56:35,688 - logger_File -INFO - user clicked on update your card button
+2022-11-30 09:56:40,726 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 09:56:44,576 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:56:44,761 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:56:45,000 - logger_File -INFO - User sent both email and password
+2022-11-30 09:56:45,103 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:56:45,516 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:56:45,700 - logger_File -INFO - User clicked on account button
+2022-11-30 09:56:46,810 - logger_File -INFO - user clicked on remove link
+2022-11-30 09:56:46,834 - logger_File -INFO - remove link not present
+2022-11-30 09:56:51,224 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:56:51,403 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:56:51,665 - logger_File -INFO - User sent both email and password
+2022-11-30 09:56:51,771 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:56:52,174 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:56:52,359 - logger_File -INFO - User clicked on account button
+2022-11-30 09:56:52,509 - logger_File -INFO - User clicked on add address button
+2022-11-30 09:57:36,522 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 09:57:36,638 - logger_File -INFO - User clicked on signIn button
+2022-11-30 09:57:36,868 - logger_File -INFO - User sent both email and password
+2022-11-30 09:57:36,952 - logger_File -INFO - User clicked on log in button
+2022-11-30 09:57:37,282 - logger_File -INFO - User should be able to see logout button
+2022-11-30 09:57:37,410 - logger_File -INFO - User clicked on account button
+2022-11-30 09:57:37,641 - logger_File -INFO - User clicked on Edit link
+2022-11-30 10:02:04,273 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:02:04,425 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:02:04,701 - logger_File -INFO - User sent both email and password
+2022-11-30 10:02:04,795 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:02:05,117 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:02:08,250 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:02:08,368 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:02:08,487 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:02:08,967 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:02:09,069 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:02:34,539 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:02:34,676 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:02:34,929 - logger_File -INFO - User sent both email and password
+2022-11-30 10:02:35,053 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:02:35,729 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:02:39,131 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:02:39,271 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:02:39,400 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:02:39,970 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:02:40,063 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:02:45,113 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:02:48,750 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:02:48,886 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:02:49,117 - logger_File -INFO - User sent both email and password
+2022-11-30 10:02:49,195 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:02:49,606 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:02:49,780 - logger_File -INFO - User clicked on account button
+2022-11-30 10:02:50,197 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:03:14,726 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:03:14,847 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:03:15,062 - logger_File -INFO - User sent both email and password
+2022-11-30 10:03:15,139 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:03:15,484 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:03:15,614 - logger_File -INFO - User clicked on account button
+2022-11-30 10:03:15,945 - logger_File -INFO - User sent all required information
+2022-11-30 10:03:16,035 - logger_File -INFO - User clicked on change password button
+2022-11-30 10:07:38,654 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:07:38,792 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:07:39,065 - logger_File -INFO - User sent both email and password
+2022-11-30 10:07:39,182 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:07:39,648 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:07:42,800 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:07:42,947 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:07:43,071 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:07:43,614 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:07:43,702 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:07:48,756 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:07:52,036 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:07:52,223 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:07:52,577 - logger_File -INFO - User sent both email and password
+2022-11-30 10:07:52,671 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:07:53,000 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:07:53,133 - logger_File -INFO - User clicked on account button
+2022-11-30 10:07:53,501 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:07:53,617 - logger_File -INFO - User clicked on update button
+2022-11-30 10:07:58,667 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 10:08:02,160 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:08:02,330 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:08:02,718 - logger_File -INFO - User sent both email and password
+2022-11-30 10:08:02,835 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:08:03,308 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:08:03,447 - logger_File -INFO - User clicked on account button
+2022-11-30 10:08:03,802 - logger_File -INFO - User sent all required information
+2022-11-30 10:08:03,890 - logger_File -INFO - User clicked on change password button
+2022-11-30 10:08:36,308 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:08:36,435 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:08:36,728 - logger_File -INFO - User sent both email and password
+2022-11-30 10:08:36,820 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:08:37,257 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:08:37,395 - logger_File -INFO - User clicked on account button
+2022-11-30 10:08:37,476 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 10:08:37,993 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:08:38,075 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:11:25,385 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:11:25,537 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:11:25,772 - logger_File -INFO - User sent both email and password
+2022-11-30 10:11:25,855 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:11:26,163 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:11:29,856 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:11:30,008 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:11:30,145 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:11:30,614 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:11:30,711 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:12:06,209 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:12:06,360 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:12:06,607 - logger_File -INFO - User sent both email and password
+2022-11-30 10:12:06,694 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:12:07,216 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:12:10,445 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:12:10,572 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:12:10,692 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:12:11,122 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:12:11,217 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:12:16,287 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:12:19,966 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:12:20,132 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:12:20,449 - logger_File -INFO - User sent both email and password
+2022-11-30 10:12:20,568 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:12:21,071 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:12:21,217 - logger_File -INFO - User clicked on account button
+2022-11-30 10:12:21,591 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:12:21,715 - logger_File -INFO - User clicked on update button
+2022-11-30 10:12:26,771 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 10:12:30,821 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:12:31,093 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:12:31,460 - logger_File -INFO - User sent both email and password
+2022-11-30 10:12:31,613 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:12:32,063 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:12:32,277 - logger_File -INFO - User clicked on account button
+2022-11-30 10:12:33,320 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 10:12:33,987 - logger_File -INFO - user clicked on update your card button
+2022-11-30 10:12:39,054 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 10:12:42,488 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:12:42,682 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:12:42,985 - logger_File -INFO - User sent both email and password
+2022-11-30 10:12:43,129 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:12:43,598 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:12:43,794 - logger_File -INFO - User clicked on account button
+2022-11-30 10:12:44,738 - logger_File -INFO - user clicked on remove link
+2022-11-30 10:12:44,770 - logger_File -INFO - remove link not present
+2022-11-30 10:12:47,892 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:12:48,070 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:12:48,346 - logger_File -INFO - User sent both email and password
+2022-11-30 10:12:48,463 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:12:48,912 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:12:49,124 - logger_File -INFO - User clicked on account button
+2022-11-30 10:12:49,279 - logger_File -INFO - User clicked on add address button
+2022-11-30 10:18:53,872 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:18:54,006 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:18:54,275 - logger_File -INFO - User sent both email and password
+2022-11-30 10:18:54,442 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:18:54,890 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:19:00,067 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:19:00,271 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:19:00,461 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:19:01,021 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:19:01,156 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:19:06,266 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:19:14,835 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:19:14,978 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:19:15,210 - logger_File -INFO - User sent both email and password
+2022-11-30 10:19:15,294 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:19:16,317 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:19:16,446 - logger_File -INFO - User clicked on account button
+2022-11-30 10:19:16,795 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:19:16,884 - logger_File -INFO - User clicked on update button
+2022-11-30 10:19:21,941 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 10:19:30,491 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:19:30,611 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:19:30,843 - logger_File -INFO - User sent both email and password
+2022-11-30 10:19:30,935 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:19:32,959 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:19:33,089 - logger_File -INFO - User clicked on account button
+2022-11-30 10:19:34,630 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 10:19:35,157 - logger_File -INFO - user clicked on update your card button
+2022-11-30 10:19:40,191 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 10:19:44,101 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:19:44,209 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:19:44,413 - logger_File -INFO - User sent both email and password
+2022-11-30 10:19:44,482 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:19:45,070 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:19:45,188 - logger_File -INFO - User clicked on account button
+2022-11-30 10:19:46,169 - logger_File -INFO - user clicked on remove link
+2022-11-30 10:19:46,196 - logger_File -INFO - remove link not present
+2022-11-30 10:19:51,082 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:19:51,194 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:19:51,422 - logger_File -INFO - User sent both email and password
+2022-11-30 10:19:51,512 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:19:51,946 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:19:52,095 - logger_File -INFO - User clicked on account button
+2022-11-30 10:19:52,204 - logger_File -INFO - User clicked on add address button
+2022-11-30 10:21:04,136 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:21:04,267 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:21:04,486 - logger_File -INFO - User sent both email and password
+2022-11-30 10:21:04,571 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:21:04,898 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:21:05,037 - logger_File -INFO - User clicked on account button
+2022-11-30 10:21:05,177 - logger_File -INFO - User clicked on add address button
+2022-11-30 10:22:26,284 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:22:26,419 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:22:26,689 - logger_File -INFO - User sent both email and password
+2022-11-30 10:22:26,772 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:22:27,109 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:22:27,255 - logger_File -INFO - User clicked on account button
+2022-11-30 10:22:27,403 - logger_File -INFO - User clicked on add address button
+2022-11-30 10:22:28,302 - logger_File -INFO - User entered all requested information
+2022-11-30 10:22:28,424 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:22:33,480 - logger_File -INFO - User should see a message for address added successfully
+2022-11-30 10:23:45,905 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:23:46,049 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:23:46,312 - logger_File -INFO - User sent both email and password
+2022-11-30 10:23:46,408 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:23:46,752 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:23:50,889 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:23:51,005 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:23:51,120 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:23:51,535 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:23:51,626 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:23:56,688 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:23:59,834 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:23:59,978 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:24:00,250 - logger_File -INFO - User sent both email and password
+2022-11-30 10:24:00,349 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:24:00,712 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:24:00,862 - logger_File -INFO - User clicked on account button
+2022-11-30 10:24:01,272 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:24:01,396 - logger_File -INFO - User clicked on update button
+2022-11-30 10:24:06,453 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 10:24:10,519 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:24:10,726 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:24:11,010 - logger_File -INFO - User sent both email and password
+2022-11-30 10:24:11,102 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:24:11,568 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:24:11,707 - logger_File -INFO - User clicked on account button
+2022-11-30 10:24:12,819 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 10:24:13,291 - logger_File -INFO - user clicked on update your card button
+2022-11-30 10:24:18,353 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 10:24:21,946 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:24:22,174 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:24:22,471 - logger_File -INFO - User sent both email and password
+2022-11-30 10:24:22,559 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:24:23,003 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:24:23,238 - logger_File -INFO - User clicked on account button
+2022-11-30 10:24:23,428 - logger_File -INFO - user clicked on remove link
+2022-11-30 10:24:23,469 - logger_File -INFO - remove link not present
+2022-11-30 10:24:29,174 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:24:29,310 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:24:29,523 - logger_File -INFO - User sent both email and password
+2022-11-30 10:24:29,608 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:24:30,075 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:24:30,209 - logger_File -INFO - User clicked on account button
+2022-11-30 10:24:30,334 - logger_File -INFO - User clicked on add address button
+2022-11-30 10:24:31,142 - logger_File -INFO - User entered all requested information
+2022-11-30 10:24:31,261 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:24:36,304 - logger_File -INFO - User should see a message for address added successfully
+2022-11-30 10:24:40,060 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:24:40,177 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:24:40,411 - logger_File -INFO - User sent both email and password
+2022-11-30 10:24:40,496 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:24:41,001 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:24:41,134 - logger_File -INFO - User clicked on account button
+2022-11-30 10:24:41,315 - logger_File -INFO - User clicked on Edit link
+2022-11-30 10:24:43,016 - logger_File -INFO - User clicked on update your address button
+2022-11-30 10:24:48,072 - logger_File -INFO - User should see a message for address updated successfully
+2022-11-30 10:24:53,242 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:24:53,401 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:24:53,644 - logger_File -INFO - User sent both email and password
+2022-11-30 10:24:53,737 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:24:54,468 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:24:54,629 - logger_File -INFO - User clicked on account button
+2022-11-30 10:24:55,041 - logger_File -INFO - User clicked on remove link under current address
+2022-11-30 10:24:55,069 - logger_File -INFO - Remove link under added address should not be present
+2022-11-30 10:24:59,137 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:24:59,286 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:24:59,477 - logger_File -INFO - All tabs are currently displayed
+2022-11-30 10:25:03,835 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:03,928 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:25:04,126 - logger_File -INFO - user is selecting department = Electronics
+2022-11-30 10:25:04,127 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-30 10:25:07,793 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:07,900 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:25:07,988 - logger_File -INFO - user is selecting department = Computers
+2022-11-30 10:25:07,989 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-30 10:25:16,016 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:16,116 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:25:16,333 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-30 10:25:16,334 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-30 10:25:19,409 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:19,503 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:25:19,606 - logger_File -INFO - user is selecting department = Sports
+2022-11-30 10:25:19,607 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-30 10:25:22,599 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:22,693 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:25:22,901 - logger_File -INFO - user is selecting department = Automotive
+2022-11-30 10:25:22,902 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-30 10:25:27,400 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:27,510 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:25:27,720 - logger_File -INFO - User sent both email and password
+2022-11-30 10:25:27,794 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:25:28,287 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:25:28,368 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:25:28,470 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:25:28,559 - logger_File -INFO - user clicked on search button
+2022-11-30 10:25:29,007 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:25:29,468 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 10:25:29,554 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:25:29,847 - logger_File -INFO - Cart button displays 2
+2022-11-30 10:25:35,227 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:35,351 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:25:35,623 - logger_File -INFO - User sent both email and password
+2022-11-30 10:25:35,719 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:25:36,201 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:25:36,264 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:25:36,358 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:25:36,438 - logger_File -INFO - user clicked on search button
+2022-11-30 10:25:36,910 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:25:37,300 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 10:25:37,398 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:25:37,424 - logger_File -INFO - Cart button displays 2
+2022-11-30 10:25:37,539 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 10:25:37,647 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 10:25:37,753 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 10:25:38,520 - logger_File -INFO - User entered all required address fields
+2022-11-30 10:25:38,654 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:25:39,249 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 10:25:39,724 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:25:39,815 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:25:45,404 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:25:45,518 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:25:45,762 - logger_File -INFO - User sent both email and password
+2022-11-30 10:25:45,853 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:25:46,814 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:25:46,898 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:25:46,996 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:25:47,084 - logger_File -INFO - user clicked on search button
+2022-11-30 10:25:47,484 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:29:53,781 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:29:53,904 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:29:54,153 - logger_File -INFO - User sent both email and password
+2022-11-30 10:29:54,265 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:29:54,633 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:29:54,733 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:29:54,839 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:29:54,925 - logger_File -INFO - user clicked on search button
+2022-11-30 10:29:55,210 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:29:55,690 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 10:29:55,775 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:29:55,799 - logger_File -INFO - Cart button displays 2
+2022-11-30 10:29:55,918 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 10:29:56,028 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 10:29:56,137 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 10:29:57,064 - logger_File -INFO - User entered all required address fields
+2022-11-30 10:29:57,294 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:29:57,483 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 10:29:58,135 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:29:58,270 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:33:31,964 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:33:32,128 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:33:32,438 - logger_File -INFO - User sent both email and password
+2022-11-30 10:33:32,528 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:33:32,936 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:33:33,069 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:33:33,179 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:33:33,283 - logger_File -INFO - user clicked on search button
+2022-11-30 10:33:33,571 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:33:33,866 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 10:33:33,940 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:33:33,965 - logger_File -INFO - Cart button displays 2
+2022-11-30 10:33:34,051 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 10:33:34,167 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 10:33:34,279 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 10:33:35,047 - logger_File -INFO - User entered all required address fields
+2022-11-30 10:33:35,247 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:33:35,446 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 10:33:36,015 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:33:36,138 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:33:36,312 - logger_File -INFO - User clicked on place your order button
+2022-11-30 10:33:36,669 - logger_File -INFO - Messaged appears!
+2022-11-30 10:34:23,172 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:34:23,361 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:34:23,644 - logger_File -INFO - User sent both email and password
+2022-11-30 10:34:23,767 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:34:24,080 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:34:24,171 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:34:24,276 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:34:24,378 - logger_File -INFO - user clicked on search button
+2022-11-30 10:34:24,693 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:34:25,035 - logger_File -INFO - user selected 5 from dropdown
+2022-11-30 10:34:25,117 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:34:25,341 - logger_File -INFO - Cart button displays 5
+2022-11-30 10:34:25,442 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 10:34:25,554 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 10:34:25,640 - logger_File -INFO - User clicked on place your order button
+2022-11-30 10:34:25,989 - logger_File -INFO - Messaged appears!
+2022-11-30 10:34:56,562 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:34:56,688 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:34:56,918 - logger_File -INFO - User sent both email and password
+2022-11-30 10:34:57,018 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:34:57,344 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:34:57,496 - logger_File -INFO - User clicked on orders button
+2022-11-30 10:34:57,941 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 10:34:58,040 - logger_File -INFO - User clicked on cancel the order button
+2022-11-30 10:34:58,134 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-30 10:34:58,219 - logger_File -INFO - User clicked on cancel order button
+2022-11-30 10:34:58,644 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-30 10:35:17,990 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:35:18,158 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:35:18,389 - logger_File -INFO - User sent both email and password
+2022-11-30 10:35:18,482 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:35:18,908 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:35:19,020 - logger_File -INFO - User clicked on orders button
+2022-11-30 10:35:19,269 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 10:35:19,390 - logger_File -INFO - User clicked on return items button
+2022-11-30 10:35:19,490 - logger_File -INFO - User selected item damaged from dropdown menu
+2022-11-30 10:35:19,603 - logger_File -INFO - User selected FedEx from dropdown menu
+2022-11-30 10:35:19,683 - logger_File -INFO - User clicked on return order button
+2022-11-30 10:35:19,901 - logger_File -INFO - Return was successfill message was displaed with a confirmation number
+2022-11-30 10:35:38,915 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:35:39,047 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:35:39,281 - logger_File -INFO - User sent both email and password
+2022-11-30 10:35:39,370 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:35:39,795 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:35:39,907 - logger_File -INFO - User clicked on orders button
+2022-11-30 10:35:40,658 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 10:35:40,751 - logger_File -INFO - User clicked on review button under orders
+2022-11-30 10:35:41,300 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-30 10:35:41,384 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-30 10:35:46,445 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-30 10:40:04,355 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:40:04,503 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:40:04,749 - logger_File -INFO - User sent both email and password
+2022-11-30 10:40:04,838 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:40:05,357 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:40:09,003 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:40:09,127 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:40:09,238 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:40:09,639 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:40:09,722 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:40:14,819 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:40:19,858 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:40:20,009 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:40:20,254 - logger_File -INFO - User sent both email and password
+2022-11-30 10:40:20,365 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:40:20,803 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:40:20,949 - logger_File -INFO - User clicked on account button
+2022-11-30 10:40:21,345 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:40:21,432 - logger_File -INFO - User clicked on update button
+2022-11-30 10:40:26,494 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 10:40:30,479 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:40:30,596 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:40:30,813 - logger_File -INFO - User sent both email and password
+2022-11-30 10:40:30,898 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:40:31,352 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:40:31,482 - logger_File -INFO - User clicked on account button
+2022-11-30 10:40:31,597 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 10:41:15,964 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:41:16,194 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:41:16,514 - logger_File -INFO - User sent both email and password
+2022-11-30 10:41:16,613 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:41:17,243 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:41:17,427 - logger_File -INFO - User clicked on account button
+2022-11-30 10:41:19,185 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 10:41:19,817 - logger_File -INFO - user clicked on update your card button
+2022-11-30 10:41:24,882 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 10:43:35,315 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:43:35,445 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:43:35,707 - logger_File -INFO - User sent both email and password
+2022-11-30 10:43:35,811 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:43:36,339 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:43:36,474 - logger_File -INFO - User clicked on account button
+2022-11-30 10:43:36,564 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 10:43:37,108 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:43:37,208 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:43:42,263 - logger_File -INFO - Payment was added successfully message
+2022-11-30 10:45:17,232 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:45:17,389 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:45:17,653 - logger_File -INFO - User sent both email and password
+2022-11-30 10:45:17,738 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:45:18,144 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:45:21,828 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:45:21,987 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:45:22,093 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:45:22,598 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:45:22,686 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:45:27,749 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:45:31,385 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:45:31,504 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:45:31,788 - logger_File -INFO - User sent both email and password
+2022-11-30 10:45:31,872 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:45:32,181 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:45:32,313 - logger_File -INFO - User clicked on account button
+2022-11-30 10:45:32,704 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:47:33,892 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:47:34,044 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:47:34,322 - logger_File -INFO - User sent both email and password
+2022-11-30 10:47:34,409 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:47:34,819 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:47:38,699 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:47:38,826 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:47:38,942 - logger_File -INFO - User clicked on create account button
+2022-11-30 10:47:39,378 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 10:47:39,476 - logger_File -INFO - User clicked on sign up button
+2022-11-30 10:47:44,526 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 10:47:47,893 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:47:48,042 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:47:48,338 - logger_File -INFO - User sent both email and password
+2022-11-30 10:47:48,446 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:47:48,844 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:47:49,027 - logger_File -INFO - User clicked on account button
+2022-11-30 10:47:49,407 - logger_File -INFO - User sent required fields to update information
+2022-11-30 10:47:49,495 - logger_File -INFO - User clicked on update button
+2022-11-30 10:47:54,570 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 10:47:58,626 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:47:58,740 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:47:58,970 - logger_File -INFO - User sent both email and password
+2022-11-30 10:47:59,040 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:47:59,396 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:47:59,547 - logger_File -INFO - User clicked on account button
+2022-11-30 10:47:59,652 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 10:48:00,187 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:48:00,303 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:48:05,369 - logger_File -INFO - Payment was added successfully message
+2022-11-30 10:48:09,129 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:09,306 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:48:09,546 - logger_File -INFO - User sent both email and password
+2022-11-30 10:48:09,643 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:48:09,969 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:48:10,153 - logger_File -INFO - User clicked on account button
+2022-11-30 10:48:11,193 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 10:48:11,743 - logger_File -INFO - user clicked on update your card button
+2022-11-30 10:48:16,802 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 10:48:20,627 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:20,783 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:48:21,051 - logger_File -INFO - User sent both email and password
+2022-11-30 10:48:21,148 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:48:21,667 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:48:21,853 - logger_File -INFO - User clicked on account button
+2022-11-30 10:48:22,973 - logger_File -INFO - user clicked on remove link
+2022-11-30 10:48:23,002 - logger_File -INFO - remove link not present
+2022-11-30 10:48:27,653 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:27,817 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:48:28,103 - logger_File -INFO - User sent both email and password
+2022-11-30 10:48:28,213 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:48:28,552 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:48:28,751 - logger_File -INFO - User clicked on account button
+2022-11-30 10:48:28,876 - logger_File -INFO - User clicked on add address button
+2022-11-30 10:48:29,900 - logger_File -INFO - User entered all requested information
+2022-11-30 10:48:30,027 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:48:35,084 - logger_File -INFO - User should see a message for address added successfully
+2022-11-30 10:48:38,617 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:38,789 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:48:39,101 - logger_File -INFO - User sent both email and password
+2022-11-30 10:48:39,244 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:48:39,684 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:48:39,853 - logger_File -INFO - User clicked on account button
+2022-11-30 10:48:40,048 - logger_File -INFO - User clicked on Edit link
+2022-11-30 10:48:41,817 - logger_File -INFO - User clicked on update your address button
+2022-11-30 10:48:46,877 - logger_File -INFO - User should see a message for address updated successfully
+2022-11-30 10:48:50,701 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:50,863 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:48:51,187 - logger_File -INFO - User sent both email and password
+2022-11-30 10:48:51,312 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:48:51,849 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:48:51,995 - logger_File -INFO - User clicked on account button
+2022-11-30 10:48:52,242 - logger_File -INFO - User clicked on remove link under current address
+2022-11-30 10:48:52,266 - logger_File -INFO - Remove link under added address should not be present
+2022-11-30 10:48:55,627 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:55,736 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:48:55,897 - logger_File -INFO - All tabs are currently displayed
+2022-11-30 10:48:59,430 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:48:59,522 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:48:59,683 - logger_File -INFO - user is selecting department = Electronics
+2022-11-30 10:48:59,684 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-30 10:49:05,348 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:05,436 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:49:05,585 - logger_File -INFO - user is selecting department = Computers
+2022-11-30 10:49:05,585 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-30 10:49:08,682 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:08,764 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:49:08,983 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-30 10:49:08,984 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-30 10:49:12,147 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:12,233 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:49:12,385 - logger_File -INFO - user is selecting department = Sports
+2022-11-30 10:49:12,386 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-30 10:49:16,229 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:16,336 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 10:49:16,422 - logger_File -INFO - user is selecting department = Automotive
+2022-11-30 10:49:16,423 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-30 10:49:19,974 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:20,107 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:49:20,346 - logger_File -INFO - User sent both email and password
+2022-11-30 10:49:20,420 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:49:20,777 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:49:20,857 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:49:20,963 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:49:21,039 - logger_File -INFO - user clicked on search button
+2022-11-30 10:49:21,315 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:49:21,637 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 10:49:21,712 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:49:21,948 - logger_File -INFO - Cart button displays 2
+2022-11-30 10:49:25,094 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:25,219 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:49:25,458 - logger_File -INFO - User sent both email and password
+2022-11-30 10:49:25,526 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:49:25,916 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:49:25,987 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:49:26,088 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:49:26,175 - logger_File -INFO - user clicked on search button
+2022-11-30 10:49:26,487 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:49:26,719 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 10:49:26,800 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:49:26,822 - logger_File -INFO - Cart button displays 2
+2022-11-30 10:49:26,942 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 10:49:27,055 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 10:49:27,160 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 10:49:27,952 - logger_File -INFO - User entered all required address fields
+2022-11-30 10:49:28,076 - logger_File -INFO - User clicked on add your address button
+2022-11-30 10:49:28,239 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 10:49:28,686 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 10:49:28,770 - logger_File -INFO - User clicked on add your card
+2022-11-30 10:49:28,921 - logger_File -INFO - User clicked on place your order button
+2022-11-30 10:49:29,271 - logger_File -INFO - Messaged appears!
+2022-11-30 10:49:32,310 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:32,479 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:49:32,701 - logger_File -INFO - User sent both email and password
+2022-11-30 10:49:32,767 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:49:33,314 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:49:33,395 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 10:49:33,492 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 10:49:33,599 - logger_File -INFO - user clicked on search button
+2022-11-30 10:49:34,016 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 10:49:34,435 - logger_File -INFO - user selected 5 from dropdown
+2022-11-30 10:49:34,507 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 10:49:34,723 - logger_File -INFO - Cart button displays 5
+2022-11-30 10:49:34,814 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 10:49:34,925 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 10:49:35,003 - logger_File -INFO - User clicked on place your order button
+2022-11-30 10:49:35,471 - logger_File -INFO - Messaged appears!
+2022-11-30 10:49:38,644 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:38,757 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:49:38,981 - logger_File -INFO - User sent both email and password
+2022-11-30 10:49:39,074 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:49:39,418 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:49:39,518 - logger_File -INFO - User clicked on orders button
+2022-11-30 10:49:40,091 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 10:49:40,183 - logger_File -INFO - User clicked on cancel the order button
+2022-11-30 10:49:40,255 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-30 10:49:40,328 - logger_File -INFO - User clicked on cancel order button
+2022-11-30 10:49:40,597 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-30 10:49:43,663 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:43,791 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:49:44,010 - logger_File -INFO - User sent both email and password
+2022-11-30 10:49:44,113 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:49:44,491 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:49:44,588 - logger_File -INFO - User clicked on orders button
+2022-11-30 10:49:44,846 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 10:49:44,934 - logger_File -INFO - User clicked on return items button
+2022-11-30 10:49:45,002 - logger_File -INFO - User selected item damaged from dropdown menu
+2022-11-30 10:49:45,071 - logger_File -INFO - User selected FedEx from dropdown menu
+2022-11-30 10:49:45,154 - logger_File -INFO - User clicked on return order button
+2022-11-30 10:49:45,563 - logger_File -INFO - Return was successfill message was displaed with a confirmation number
+2022-11-30 10:49:48,883 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 10:49:49,016 - logger_File -INFO - User clicked on signIn button
+2022-11-30 10:49:49,257 - logger_File -INFO - User sent both email and password
+2022-11-30 10:49:49,345 - logger_File -INFO - User clicked on log in button
+2022-11-30 10:49:49,739 - logger_File -INFO - User should be able to see logout button
+2022-11-30 10:49:49,844 - logger_File -INFO - User clicked on orders button
+2022-11-30 10:49:50,186 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 10:49:50,286 - logger_File -INFO - User clicked on review button under orders
+2022-11-30 10:49:50,724 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-30 10:49:50,825 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-30 10:49:55,868 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-30 12:02:21,042 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:02:21,168 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:02:21,386 - logger_File -INFO - User sent both email and password
+2022-11-30 12:02:21,472 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:02:21,813 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:02:24,708 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:02:24,844 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:02:24,949 - logger_File -INFO - User clicked on create account button
+2022-11-30 12:02:25,357 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 12:02:25,448 - logger_File -INFO - User clicked on sign up button
+2022-11-30 12:02:30,517 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 12:02:35,075 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:02:35,237 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:02:35,457 - logger_File -INFO - User sent both email and password
+2022-11-30 12:02:35,572 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:02:35,948 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:02:36,070 - logger_File -INFO - User clicked on account button
+2022-11-30 12:02:36,427 - logger_File -INFO - User sent required fields to update information
+2022-11-30 12:02:36,523 - logger_File -INFO - User clicked on update button
+2022-11-30 12:02:41,616 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 12:02:44,781 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:02:44,893 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:02:45,105 - logger_File -INFO - User sent both email and password
+2022-11-30 12:02:45,188 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:02:45,476 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:02:45,603 - logger_File -INFO - User clicked on account button
+2022-11-30 12:02:45,697 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 12:02:46,175 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 12:02:46,267 - logger_File -INFO - User clicked on add your card
+2022-11-30 12:02:51,315 - logger_File -INFO - Payment was added successfully message
+2022-11-30 12:02:54,878 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:02:54,996 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:02:55,210 - logger_File -INFO - User sent both email and password
+2022-11-30 12:02:55,292 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:02:55,588 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:02:55,702 - logger_File -INFO - User clicked on account button
+2022-11-30 12:02:56,810 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 12:02:57,260 - logger_File -INFO - user clicked on update your card button
+2022-11-30 12:03:02,291 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 12:03:05,546 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:05,659 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:03:05,881 - logger_File -INFO - User sent both email and password
+2022-11-30 12:03:05,959 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:03:06,254 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:03:06,375 - logger_File -INFO - User clicked on account button
+2022-11-30 12:03:07,269 - logger_File -INFO - user clicked on remove link
+2022-11-30 12:03:07,292 - logger_File -INFO - remove link not present
+2022-11-30 12:03:10,504 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:10,635 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:03:10,848 - logger_File -INFO - User sent both email and password
+2022-11-30 12:03:10,921 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:03:11,396 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:03:11,524 - logger_File -INFO - User clicked on account button
+2022-11-30 12:03:11,626 - logger_File -INFO - User clicked on add address button
+2022-11-30 12:03:12,356 - logger_File -INFO - User entered all requested information
+2022-11-30 12:03:12,454 - logger_File -INFO - User clicked on add your address button
+2022-11-30 12:03:17,488 - logger_File -INFO - User should see a message for address added successfully
+2022-11-30 12:03:20,680 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:20,817 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:03:21,021 - logger_File -INFO - User sent both email and password
+2022-11-30 12:03:21,094 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:03:21,475 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:03:21,589 - logger_File -INFO - User clicked on account button
+2022-11-30 12:03:21,824 - logger_File -INFO - User clicked on Edit link
+2022-11-30 12:03:23,200 - logger_File -INFO - User clicked on update your address button
+2022-11-30 12:03:28,252 - logger_File -INFO - User should see a message for address updated successfully
+2022-11-30 12:03:33,224 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:33,346 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:03:33,563 - logger_File -INFO - User sent both email and password
+2022-11-30 12:03:33,641 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:03:33,931 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:03:34,050 - logger_File -INFO - User clicked on account button
+2022-11-30 12:03:34,272 - logger_File -INFO - User clicked on remove link under current address
+2022-11-30 12:03:34,292 - logger_File -INFO - Remove link under added address should not be present
+2022-11-30 12:03:38,281 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:38,381 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:03:38,489 - logger_File -INFO - All tabs are currently displayed
+2022-11-30 12:03:42,278 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:42,360 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:03:42,566 - logger_File -INFO - user is selecting department = Electronics
+2022-11-30 12:03:42,566 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-30 12:03:46,321 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:46,414 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:03:46,554 - logger_File -INFO - user is selecting department = Computers
+2022-11-30 12:03:46,555 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-30 12:03:51,354 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:51,436 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:03:52,011 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-30 12:03:52,012 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-30 12:03:56,758 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:03:56,837 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:03:57,106 - logger_File -INFO - user is selecting department = Sports
+2022-11-30 12:03:57,107 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-30 12:04:00,873 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:00,959 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:04:01,054 - logger_File -INFO - user is selecting department = Automotive
+2022-11-30 12:04:01,055 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-30 12:04:05,164 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:05,263 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:04:05,463 - logger_File -INFO - User sent both email and password
+2022-11-30 12:04:05,544 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:04:06,248 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:04:06,303 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 12:04:06,399 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 12:04:06,480 - logger_File -INFO - user clicked on search button
+2022-11-30 12:04:06,733 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 12:04:07,024 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 12:04:07,103 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 12:04:07,386 - logger_File -INFO - Cart button displays 2
+2022-11-30 12:04:11,572 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:11,697 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:04:11,905 - logger_File -INFO - User sent both email and password
+2022-11-30 12:04:11,978 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:04:12,371 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:04:12,424 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 12:04:12,523 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 12:04:12,602 - logger_File -INFO - user clicked on search button
+2022-11-30 12:04:12,880 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 12:04:13,102 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 12:04:13,174 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 12:04:13,198 - logger_File -INFO - Cart button displays 2
+2022-11-30 12:04:13,297 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 12:04:13,400 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 12:04:13,498 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 12:04:14,195 - logger_File -INFO - User entered all required address fields
+2022-11-30 12:04:14,308 - logger_File -INFO - User clicked on add your address button
+2022-11-30 12:04:14,461 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 12:04:14,892 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 12:04:14,976 - logger_File -INFO - User clicked on add your card
+2022-11-30 12:04:15,177 - logger_File -INFO - User clicked on place your order button
+2022-11-30 12:04:15,508 - logger_File -INFO - Messaged appears!
+2022-11-30 12:04:19,536 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:19,641 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:04:19,831 - logger_File -INFO - User sent both email and password
+2022-11-30 12:04:19,896 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:04:20,173 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:04:20,240 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 12:04:20,342 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 12:04:20,411 - logger_File -INFO - user clicked on search button
+2022-11-30 12:04:20,677 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 12:04:21,010 - logger_File -INFO - user selected 5 from dropdown
+2022-11-30 12:04:21,087 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 12:04:21,262 - logger_File -INFO - Cart button displays 5
+2022-11-30 12:04:21,342 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 12:04:21,444 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 12:04:21,516 - logger_File -INFO - User clicked on place your order button
+2022-11-30 12:04:21,847 - logger_File -INFO - Messaged appears!
+2022-11-30 12:04:24,863 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:24,983 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:04:25,204 - logger_File -INFO - User sent both email and password
+2022-11-30 12:04:25,271 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:04:25,581 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:04:25,686 - logger_File -INFO - User clicked on orders button
+2022-11-30 12:04:26,649 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 12:04:26,739 - logger_File -INFO - User clicked on cancel the order button
+2022-11-30 12:04:26,826 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-30 12:04:26,900 - logger_File -INFO - User clicked on cancel order button
+2022-11-30 12:04:27,116 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-30 12:04:30,093 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:30,205 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:04:30,403 - logger_File -INFO - User sent both email and password
+2022-11-30 12:04:30,472 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:04:30,778 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:04:30,866 - logger_File -INFO - User clicked on orders button
+2022-11-30 12:04:31,211 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 12:04:31,302 - logger_File -INFO - User clicked on return items button
+2022-11-30 12:04:31,371 - logger_File -INFO - User selected item damaged from dropdown menu
+2022-11-30 12:04:31,445 - logger_File -INFO - User selected FedEx from dropdown menu
+2022-11-30 12:04:31,526 - logger_File -INFO - User clicked on return order button
+2022-11-30 12:04:31,980 - logger_File -INFO - Return was successfill message was displaed with a confirmation number
+2022-11-30 12:04:34,897 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:04:35,000 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:04:35,202 - logger_File -INFO - User sent both email and password
+2022-11-30 12:04:35,274 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:04:35,562 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:04:35,651 - logger_File -INFO - User clicked on orders button
+2022-11-30 12:04:35,989 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 12:04:36,075 - logger_File -INFO - User clicked on review button under orders
+2022-11-30 12:04:36,481 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-30 12:04:36,534 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-30 12:04:41,565 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-30 12:06:57,100 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:06:57,223 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:06:57,446 - logger_File -INFO - User sent both email and password
+2022-11-30 12:06:57,537 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:06:57,948 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:06:58,071 - logger_File -INFO - User clicked on account button
+2022-11-30 12:06:58,407 - logger_File -INFO - User sent all required information
+2022-11-30 12:06:58,499 - logger_File -INFO - User clicked on change password button
+2022-11-30 12:07:03,533 - logger_File -INFO - A successful password updated message appears
+2022-11-30 12:07:03,797 - logger_File -INFO - User sent all required information again
+2022-11-30 12:07:03,872 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-11-30 12:10:02,826 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:10:02,956 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:10:03,173 - logger_File -INFO - User sent both email and password
+2022-11-30 12:10:03,258 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:11:49,204 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:11:49,323 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:11:49,544 - logger_File -INFO - User sent both email and password
+2022-11-30 12:11:49,626 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:11:50,027 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:11:50,153 - logger_File -INFO - User clicked on account button
+2022-11-30 12:11:50,476 - logger_File -INFO - User sent all required information
+2022-11-30 12:11:50,559 - logger_File -INFO - User clicked on change password button
+2022-11-30 12:11:55,620 - logger_File -INFO - A successful password updated message appears
+2022-11-30 12:11:55,920 - logger_File -INFO - User sent all required information again
+2022-11-30 12:11:56,004 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-11-30 12:12:01,053 - logger_File -INFO - A successful password updated message appears
+2022-11-30 12:12:39,006 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:12:39,134 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:12:39,352 - logger_File -INFO - User sent both email and password
+2022-11-30 12:12:39,441 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:12:39,743 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:12:39,870 - logger_File -INFO - User clicked on account button
+2022-11-30 12:12:40,179 - logger_File -INFO - User sent all required information
+2022-11-30 12:12:40,260 - logger_File -INFO - User clicked on change password button
+2022-11-30 12:12:45,301 - logger_File -INFO - A successful password updated message appears
+2022-11-30 12:12:45,588 - logger_File -INFO - User sent all required information again
+2022-11-30 12:12:45,669 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-11-30 12:12:50,722 - logger_File -INFO - A successful password updated message appears
+2022-11-30 12:16:02,848 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:02,994 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:03,219 - logger_File -INFO - User sent both email and password
+2022-11-30 12:16:03,307 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:16:03,674 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:16:06,630 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:06,767 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:06,860 - logger_File -INFO - User clicked on create account button
+2022-11-30 12:16:07,242 - logger_File -INFO - User entered all required fields to create account
+2022-11-30 12:16:07,334 - logger_File -INFO - User clicked on sign up button
+2022-11-30 12:16:12,393 - logger_File -INFO - Both elements are displayed after successfully creating account
+2022-11-30 12:16:18,326 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:18,454 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:18,666 - logger_File -INFO - User sent both email and password
+2022-11-30 12:16:18,748 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:16:19,262 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:16:19,389 - logger_File -INFO - User clicked on account button
+2022-11-30 12:16:19,686 - logger_File -INFO - User sent required fields to update information
+2022-11-30 12:16:19,764 - logger_File -INFO - User clicked on update button
+2022-11-30 12:16:24,838 - logger_File -INFO - personal information update message should be displayed temporarily
+2022-11-30 12:16:28,090 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:28,239 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:28,454 - logger_File -INFO - User sent both email and password
+2022-11-30 12:16:28,535 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:16:29,089 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:16:29,216 - logger_File -INFO - User clicked on account button
+2022-11-30 12:16:29,304 - logger_File -INFO - User clicked on add your payment link
+2022-11-30 12:16:29,791 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 12:16:29,875 - logger_File -INFO - User clicked on add your card
+2022-11-30 12:16:34,921 - logger_File -INFO - Payment was added successfully message
+2022-11-30 12:16:38,720 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:38,851 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:39,059 - logger_File -INFO - User sent both email and password
+2022-11-30 12:16:39,137 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:16:39,481 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:16:39,619 - logger_File -INFO - User clicked on account button
+2022-11-30 12:16:40,761 - logger_File -INFO - User clicked on cards and account button and clicked on edit button
+2022-11-30 12:16:41,203 - logger_File -INFO - user clicked on update your card button
+2022-11-30 12:16:46,250 - logger_File -INFO - Payment method updated message should appear!
+2022-11-30 12:16:49,669 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:49,813 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:50,037 - logger_File -INFO - User sent both email and password
+2022-11-30 12:16:50,114 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:16:50,553 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:16:50,661 - logger_File -INFO - User clicked on account button
+2022-11-30 12:16:51,533 - logger_File -INFO - user clicked on remove link
+2022-11-30 12:16:51,559 - logger_File -INFO - remove link not present
+2022-11-30 12:16:54,707 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:16:54,845 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:16:55,061 - logger_File -INFO - User sent both email and password
+2022-11-30 12:16:55,134 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:16:55,517 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:16:55,642 - logger_File -INFO - User clicked on account button
+2022-11-30 12:16:55,755 - logger_File -INFO - User clicked on add address button
+2022-11-30 12:16:56,469 - logger_File -INFO - User entered all requested information
+2022-11-30 12:16:56,571 - logger_File -INFO - User clicked on add your address button
+2022-11-30 12:17:01,626 - logger_File -INFO - User should see a message for address added successfully
+2022-11-30 12:17:05,086 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:05,201 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:17:05,400 - logger_File -INFO - User sent both email and password
+2022-11-30 12:17:05,470 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:17:05,798 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:17:05,938 - logger_File -INFO - User clicked on account button
+2022-11-30 12:17:06,466 - logger_File -INFO - User clicked on Edit link
+2022-11-30 12:17:07,898 - logger_File -INFO - User clicked on update your address button
+2022-11-30 12:17:12,944 - logger_File -INFO - User should see a message for address updated successfully
+2022-11-30 12:17:19,813 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:19,913 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:17:20,114 - logger_File -INFO - User sent both email and password
+2022-11-30 12:17:20,188 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:17:20,581 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:17:20,691 - logger_File -INFO - User clicked on account button
+2022-11-30 12:17:20,912 - logger_File -INFO - User clicked on remove link under current address
+2022-11-30 12:17:20,930 - logger_File -INFO - Remove link under added address should not be present
+2022-11-30 12:17:24,080 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:24,181 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:17:24,291 - logger_File -INFO - All tabs are currently displayed
+2022-11-30 12:17:28,017 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:28,098 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:17:28,204 - logger_File -INFO - user is selecting department = Electronics
+2022-11-30 12:17:28,205 - logger_File -INFO - Checking department Items TV & Video, Video Games
+2022-11-30 12:17:31,189 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:31,290 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:17:31,375 - logger_File -INFO - user is selecting department = Computers
+2022-11-30 12:17:31,375 - logger_File -INFO - Checking department Items Accessories, Networking
+2022-11-30 12:17:34,417 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:34,513 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:17:34,595 - logger_File -INFO - user is selecting department = Smart Home
+2022-11-30 12:17:34,596 - logger_File -INFO - Checking department Items Smart Home Lightning, Plugs and Outlets
+2022-11-30 12:17:37,576 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:37,659 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:17:37,759 - logger_File -INFO - user is selecting department = Sports
+2022-11-30 12:17:37,760 - logger_File -INFO - Checking department Items Athletic Clothing, Exercise & Fitness
+2022-11-30 12:17:40,923 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:41,013 - logger_File -INFO - User clicked on All sidebar
+2022-11-30 12:17:41,104 - logger_File -INFO - user is selecting department = Automotive
+2022-11-30 12:17:41,104 - logger_File -INFO - Checking department Items Automative Parts & Accessories, MotorCycle & Powersports
+2022-11-30 12:17:44,142 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:44,262 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:17:44,476 - logger_File -INFO - User sent both email and password
+2022-11-30 12:17:44,549 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:17:44,953 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:17:45,021 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 12:17:45,121 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 12:17:45,193 - logger_File -INFO - user clicked on search button
+2022-11-30 12:17:45,452 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 12:17:45,718 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 12:17:45,795 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 12:17:46,009 - logger_File -INFO - Cart button displays 2
+2022-11-30 12:17:49,149 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:49,256 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:17:49,454 - logger_File -INFO - User sent both email and password
+2022-11-30 12:17:49,525 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:17:49,826 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:17:49,896 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 12:17:49,985 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 12:17:50,049 - logger_File -INFO - user clicked on search button
+2022-11-30 12:17:50,313 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 12:17:50,597 - logger_File -INFO - user selected 2 from dropdown
+2022-11-30 12:17:50,674 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 12:17:50,698 - logger_File -INFO - Cart button displays 2
+2022-11-30 12:17:50,790 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 12:17:50,901 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 12:17:51,004 - logger_File -INFO - User clicked on add a new address link
+2022-11-30 12:17:51,699 - logger_File -INFO - User entered all required address fields
+2022-11-30 12:17:51,810 - logger_File -INFO - User clicked on add your address button
+2022-11-30 12:17:51,952 - logger_File -INFO - User clicked on add a credit or debit card button
+2022-11-30 12:17:52,372 - logger_File -INFO - User filled out all requested information boxes
+2022-11-30 12:17:52,452 - logger_File -INFO - User clicked on add your card
+2022-11-30 12:17:52,655 - logger_File -INFO - User clicked on place your order button
+2022-11-30 12:17:52,991 - logger_File -INFO - Messaged appears!
+2022-11-30 12:17:57,132 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:17:57,237 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:17:57,439 - logger_File -INFO - User sent both email and password
+2022-11-30 12:17:57,511 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:17:58,212 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:17:58,286 - logger_File -INFO - User selected Smart Home option from dropdown
+2022-11-30 12:17:58,374 - logger_File -INFO - user typed for kasa outdoor smart plug in search texbox
+2022-11-30 12:17:58,451 - logger_File -INFO - user clicked on search button
+2022-11-30 12:17:58,890 - logger_File -INFO - User clicked on kasa outdoor plug item
+2022-11-30 12:17:59,286 - logger_File -INFO - user selected 5 from dropdown
+2022-11-30 12:17:59,360 - logger_File -INFO - User clicked on add to cart button
+2022-11-30 12:17:59,696 - logger_File -INFO - Cart button displays 5
+2022-11-30 12:17:59,775 - logger_File -INFO - user clicked on cart icon at the top of page
+2022-11-30 12:17:59,884 - logger_File -INFO - User clicked on proceed to checkout button
+2022-11-30 12:17:59,958 - logger_File -INFO - User clicked on place your order button
+2022-11-30 12:18:00,475 - logger_File -INFO - Messaged appears!
+2022-11-30 12:18:05,087 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:18:05,186 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:18:05,380 - logger_File -INFO - User sent both email and password
+2022-11-30 12:18:05,452 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:18:05,760 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:18:05,849 - logger_File -INFO - User clicked on orders button
+2022-11-30 12:18:06,131 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 12:18:06,222 - logger_File -INFO - User clicked on cancel the order button
+2022-11-30 12:18:06,299 - logger_File -INFO - User selected the correct option from dropdown menu
+2022-11-30 12:18:06,370 - logger_File -INFO - User clicked on cancel order button
+2022-11-30 12:18:06,527 - logger_File -INFO - Message is displayed for successfull cancelled order!
+2022-11-30 12:18:10,090 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:18:10,202 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:18:10,383 - logger_File -INFO - User sent both email and password
+2022-11-30 12:18:10,449 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:18:10,873 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:18:10,978 - logger_File -INFO - User clicked on orders button
+2022-11-30 12:18:11,441 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 12:18:11,536 - logger_File -INFO - User clicked on return items button
+2022-11-30 12:18:11,610 - logger_File -INFO - User selected item damaged from dropdown menu
+2022-11-30 12:18:11,686 - logger_File -INFO - User selected FedEx from dropdown menu
+2022-11-30 12:18:11,769 - logger_File -INFO - User clicked on return order button
+2022-11-30 12:18:12,117 - logger_File -INFO - Return was successfill message was displaed with a confirmation number
+2022-11-30 12:18:17,058 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:18:17,162 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:18:17,365 - logger_File -INFO - User sent both email and password
+2022-11-30 12:18:17,429 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:18:17,722 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:18:17,812 - logger_File -INFO - User clicked on orders button
+2022-11-30 12:18:18,096 - logger_File -INFO - User clicked on show details link under orders
+2022-11-30 12:18:18,182 - logger_File -INFO - User clicked on review button under orders
+2022-11-30 12:18:18,585 - logger_File -INFO - User filled out both required fields to enter review!
+2022-11-30 12:18:18,645 - logger_File -INFO - User clicked on add your review button after writing review
+2022-11-30 12:18:23,680 - logger_File -INFO - User should see a message for review was added successfully
+2022-11-30 12:18:26,730 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-11-30 12:18:26,832 - logger_File -INFO - User clicked on signIn button
+2022-11-30 12:18:27,033 - logger_File -INFO - User sent both email and password
+2022-11-30 12:18:27,106 - logger_File -INFO - User clicked on log in button
+2022-11-30 12:18:27,452 - logger_File -INFO - User should be able to see logout button
+2022-11-30 12:18:27,567 - logger_File -INFO - User clicked on account button
+2022-11-30 12:18:27,867 - logger_File -INFO - User sent all required information
+2022-11-30 12:18:27,943 - logger_File -INFO - User clicked on change password button
+2022-11-30 12:18:32,973 - logger_File -INFO - A successful password updated message appears
+2022-11-30 12:18:33,201 - logger_File -INFO - User sent all required information again
+2022-11-30 12:18:33,269 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-11-30 12:18:38,306 - logger_File -INFO - A successful password updated message appears
