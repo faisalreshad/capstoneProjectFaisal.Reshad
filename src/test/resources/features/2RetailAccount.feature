@@ -12,7 +12,7 @@ Feature: Retail Account Page
   @test3
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'FaizalResh' and Phone '704778757'
+    And User update Name 'FaizalResh' and Phone '7047787578'
     And User click on Update button
     Then user profile information should be updated
 
