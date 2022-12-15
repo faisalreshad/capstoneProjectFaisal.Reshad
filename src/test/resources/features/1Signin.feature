@@ -18,3 +18,5 @@ Feature: Sign In Feature
       | pantherss | i7877738@tekschool.us | Tek@12347 | Tek@12347       |
     And User click on SignUp button
     Then User should be logged into account page
+    
+    

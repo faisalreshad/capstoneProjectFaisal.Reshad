@@ -6,7 +6,7 @@ Background:
     And User enter email 'testemail4@email.com' and password 'TestPassword@04'
     And User click on login button
     And User should be logged in into Account
-
+	
   @test4
   Scenario: Verify User can Update password
     When User click on Account option
@@ -21,3 +21,5 @@ Background:
     And User click on Change Password button again
     Then a message should be displayed again Password Updated Successfully
 	# THIS FEATURE IS NEW
+	
+	

@@ -146,7 +146,10 @@ public class RetailAccountSteps extends CommonUtility {
 		sendText(factory.accountPage().cardNumberInput, paymentInfo.get(0).get("cardNumber"));
 		sendText(factory.accountPage().nameOnCardField, paymentInfo.get(0).get("nameOnCard"));
 		selectByVisibleText(factory.accountPage().expirationMonthDropdown, "12");
+	//	selectByVisibleText(factory.accountPage().expirationMonthDropdown, paymentInfo.get(0).get("expirationMonth"));
 		selectByVisibleText(factory.accountPage().expirationYearDropdown, "2027");
+	//	selectByVisibleText(factory.accountPage().expirationMonthDropdown, paymentInfo.get(0).get("expirationYear"));
+	//  make sure you go to 
 		sendText(factory.accountPage().securityCodeField, paymentInfo.get(0).get("securityCode"));
 		logger.info("User filled out all requested information boxes");
 
