@@ -15,7 +15,7 @@ import tek.sdet.framework.pages.POMFactory;
 import tek.sdet.framework.utilities.CommonUtility;
 
 public class HomeSteps extends CommonUtility {
-	
+	//testing
 	private POMFactory factory = new POMFactory();
 
 	@Given("User is on retail website")

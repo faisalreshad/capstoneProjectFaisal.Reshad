@@ -12,7 +12,7 @@ Feature: Retail Account Page
   @test3
   Scenario: Verify User can update Profile Information
     When User click on Account option
-    And User update Name 'FaisalRe' and Phone '704778757'
+    And User update Name 'FaisalResh' and Phone '704778757'
     And User click on Update button
     Then user profile information should be updated
 
@@ -31,7 +31,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 2526527978207949 | Test Java  | value           | value          |          589 |
+      | 2526537978207949 | Test Java  | value           | value          |          589 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -41,7 +41,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard    | expirationMonth | expirationYear | securityCode |
-      | 7846719718978719 | TekSchoolCard | value           | value          |          589 |
+      | 7846719818978719 | TekSchoolCard | value           | value          |          589 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
@@ -56,7 +56,7 @@ Feature: Retail Account Page
     When User click on Account option
     And User click on Add address option
     And user fill new address form with below information
-      | country | fullName      | phoneNumber | streetAddress    | apt | city       | state | zipCode |
+      | country | fullName | phoneNumber | streetAddress    | apt | city       | state | zipCode |
       | value   | FaisalRe |  1247778878 | 1289 main street | 217 | Alexandria | value |   22179 |
     And User click Add Your Address button
     Then a message should be displayed ‘Address Added Successfully’
@@ -66,7 +66,7 @@ Feature: Retail Account Page
     When User click on Account option
     And User click on edit address option
     And user fill updated address form with below information
-      | country | fullName   | phoneNumber | streetAddress | apt | city      | state | zipCode |
+      | country | fullName     | phoneNumber | streetAddress | apt | city      | state | zipCode |
       | value   | FaisalCapStn |  9874573279 | 689 Second St | 312 | Arlington | value |   22193 |
     And User click update Your Address button
     Then a message should be displayed ‘Address Updated Successfully’
