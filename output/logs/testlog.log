@@ -4269,3 +4269,23 @@
 2022-12-14 21:58:09,618 - logger_File -INFO - User sent all required information again
 2022-12-14 21:58:09,677 - logger_File -INFO - User clicked on change password button again to revert to original password
 2022-12-14 21:58:14,707 - logger_File -INFO - A successful password updated message appears
+2022-12-16 10:28:19,120 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:28:19,229 - logger_File -INFO - User clicked on signIn button
+2022-12-16 10:28:19,391 - logger_File -INFO - User sent both email and password
+2022-12-16 10:28:19,455 - logger_File -INFO - User clicked on log in button
+2022-12-16 10:29:40,455 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:29:40,557 - logger_File -INFO - User clicked on signIn button
+2022-12-16 10:29:40,747 - logger_File -INFO - User sent both email and password
+2022-12-16 10:29:40,814 - logger_File -INFO - User clicked on log in button
+2022-12-16 10:31:05,574 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:31:05,673 - logger_File -INFO - User clicked on signIn button
+2022-12-16 10:31:05,858 - logger_File -INFO - User sent both email and password
+2022-12-16 10:31:05,924 - logger_File -INFO - User clicked on log in button
+2022-12-16 10:31:06,255 - logger_File -INFO - User should be able to see logout button
+2022-12-16 10:31:06,368 - logger_File -INFO - User clicked on account button
+2022-12-16 10:31:06,670 - logger_File -INFO - User sent all required information
+2022-12-16 10:31:06,736 - logger_File -INFO - User clicked on change password button
+2022-12-16 10:31:11,768 - logger_File -INFO - A successful password updated message appears
+2022-12-16 10:31:12,024 - logger_File -INFO - User sent all required information again
+2022-12-16 10:31:12,100 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-12-16 10:31:17,140 - logger_File -INFO - A successful password updated message appears

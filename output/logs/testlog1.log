@@ -4269,3 +4269,23 @@
 2022-12-14 21:58:09,618 [main] INFO logger_File - User sent all required information again
 2022-12-14 21:58:09,677 [main] INFO logger_File - User clicked on change password button again to revert to original password
 2022-12-14 21:58:14,707 [main] INFO logger_File - A successful password updated message appears
+2022-12-16 10:28:19,120 [main] INFO logger_File - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:28:19,229 [main] INFO logger_File - User clicked on signIn button
+2022-12-16 10:28:19,391 [main] INFO logger_File - User sent both email and password
+2022-12-16 10:28:19,455 [main] INFO logger_File - User clicked on log in button
+2022-12-16 10:29:40,455 [main] INFO logger_File - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:29:40,557 [main] INFO logger_File - User clicked on signIn button
+2022-12-16 10:29:40,747 [main] INFO logger_File - User sent both email and password
+2022-12-16 10:29:40,814 [main] INFO logger_File - User clicked on log in button
+2022-12-16 10:31:05,574 [main] INFO logger_File - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:31:05,673 [main] INFO logger_File - User clicked on signIn button
+2022-12-16 10:31:05,858 [main] INFO logger_File - User sent both email and password
+2022-12-16 10:31:05,924 [main] INFO logger_File - User clicked on log in button
+2022-12-16 10:31:06,255 [main] INFO logger_File - User should be able to see logout button
+2022-12-16 10:31:06,368 [main] INFO logger_File - User clicked on account button
+2022-12-16 10:31:06,670 [main] INFO logger_File - User sent all required information
+2022-12-16 10:31:06,736 [main] INFO logger_File - User clicked on change password button
+2022-12-16 10:31:11,768 [main] INFO logger_File - A successful password updated message appears
+2022-12-16 10:31:12,024 [main] INFO logger_File - User sent all required information again
+2022-12-16 10:31:12,100 [main] INFO logger_File - User clicked on change password button again to revert to original password
+2022-12-16 10:31:17,140 [main] INFO logger_File - A successful password updated message appears

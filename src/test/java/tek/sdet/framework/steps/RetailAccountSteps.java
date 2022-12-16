@@ -108,6 +108,7 @@ public class RetailAccountSteps extends CommonUtility {
 		
 		Assert.assertTrue(isElementDisplayed(getWebElementByTextUsingDiv("Password Updated Successfully")));
 		logger.info("A successful password updated message appears");
+		slowDown();
 	}
 	/////////////////////////////////////////////////CHANGES MADE FOR NEW FEATURE FILE
 	
@@ -122,7 +123,7 @@ public class RetailAccountSteps extends CommonUtility {
 	
 	@And("User click on Change Password button again")
 	public void userClickOnChangePasswordButtonAgain() {
-		click(factory.accountPage().changePasswordButton);
+		click(factory.accountPage().changePasswordButtonAgain);
 		logger.info("User clicked on change password button again to revert to original password");
 	}
 	
