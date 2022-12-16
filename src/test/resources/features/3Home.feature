@@ -58,12 +58,12 @@ Feature: Retail Home Page
     And User click Add a new address link for shipping address
     And User fill new address form with below information
       | country       | fullName      | phoneNumber | streetAddress | apt | city      | state    | zipCode |
-      | United States | Faisal Reshad |  7038138977 | 174 main st   | 183 | Arlington | Virginia |   22197 |
+      | United States | Faisal Rashad |  7038138977 | 174 main st   | 183 | Arlington | Virginia |   22197 |
     And User click Add Your Address button
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard    | expirationMonth | expirationYear | securityCode |
-      | 2237836261245554 | NothingForNow | value           | value          |          278 |
+      | 2237836261245564 | NothingForNow | value           | value          |          278 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
