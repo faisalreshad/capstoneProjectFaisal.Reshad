@@ -57,7 +57,7 @@ public WebElement passwordUpdatedSuccessfullyMessage;
 @FindBy(id="credentialsSubmitBtn")
 public WebElement changePasswordButton;
 
-@FindBy(id="credentialsSubmitBtn")
+@FindBy(xpath="//button[text()='Change Password']")
 public WebElement changePasswordButtonAgain;
 
 @FindBy(xpath="//p[text()='Add a payment method']")
