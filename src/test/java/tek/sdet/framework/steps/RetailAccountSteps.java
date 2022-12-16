@@ -96,6 +96,7 @@ public class RetailAccountSteps extends CommonUtility {
 
 	@When("User click on Change Password button")
 	public void userClickOnChangePasswordButton() {
+		waitTillClickable(factory.accountPage().changePasswordButton);
 		click(factory.accountPage().changePasswordButton);
 		logger.info("User clicked on change password button");
 	}
@@ -123,6 +124,7 @@ public class RetailAccountSteps extends CommonUtility {
 	
 	@And("User click on Change Password button again")
 	public void userClickOnChangePasswordButtonAgain() {
+		waitTillClickable(factory.accountPage().changePasswordButtonAgain);
 		click(factory.accountPage().changePasswordButtonAgain);
 		logger.info("User clicked on change password button again to revert to original password");
 	}
