@@ -63,7 +63,7 @@ Feature: Retail Home Page
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard    | expirationMonth | expirationYear | securityCode |
-      | 2137834781247764 | NothingForNow | value           | value          |          278 |
+      | 2137834788947764 | NothingForNow | value           | value          |          278 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed ‘Order Placed, Thanks’
