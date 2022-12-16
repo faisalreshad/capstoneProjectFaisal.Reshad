@@ -15,6 +15,8 @@ Background:
       | TestPassword@04  | TestPassword@05 | TestPassword@05 |
     And User click on Change Password button
     Then a message should be displayed ‘Password Updated Successfully’
+    And User click on Orders section
+    When User click on Account option
     And User enter below information again
       | previousPassword | newPassword     | confirmPassword |
       | TestPassword@05  | TestPassword@04 | TestPassword@04 |

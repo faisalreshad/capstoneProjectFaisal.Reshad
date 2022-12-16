@@ -4289,3 +4289,47 @@
 2022-12-16 10:31:12,024 - logger_File -INFO - User sent all required information again
 2022-12-16 10:31:12,100 - logger_File -INFO - User clicked on change password button again to revert to original password
 2022-12-16 10:31:17,140 - logger_File -INFO - A successful password updated message appears
+2022-12-16 10:59:20,206 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 10:59:20,305 - logger_File -INFO - User clicked on signIn button
+2022-12-16 10:59:20,476 - logger_File -INFO - User sent both email and password
+2022-12-16 10:59:20,540 - logger_File -INFO - User clicked on log in button
+2022-12-16 10:59:21,013 - logger_File -INFO - User should be able to see logout button
+2022-12-16 10:59:21,122 - logger_File -INFO - User clicked on account button
+2022-12-16 10:59:21,360 - logger_File -INFO - User sent all required information
+2022-12-16 10:59:21,429 - logger_File -INFO - User clicked on change password button
+2022-12-16 10:59:26,466 - logger_File -INFO - A successful password updated message appears
+2022-12-16 10:59:31,651 - logger_File -INFO - User sent all required information again
+2022-12-16 10:59:31,706 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-12-16 10:59:36,740 - logger_File -INFO - A successful password updated message appears
+2022-12-16 11:33:17,488 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 11:33:17,597 - logger_File -INFO - User clicked on signIn button
+2022-12-16 11:33:17,774 - logger_File -INFO - User sent both email and password
+2022-12-16 11:33:17,837 - logger_File -INFO - User clicked on log in button
+2022-12-16 11:38:08,243 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 11:38:08,366 - logger_File -INFO - User clicked on signIn button
+2022-12-16 11:38:08,542 - logger_File -INFO - User sent both email and password
+2022-12-16 11:38:08,610 - logger_File -INFO - User clicked on log in button
+2022-12-16 11:38:09,253 - logger_File -INFO - User should be able to see logout button
+2022-12-16 11:38:09,350 - logger_File -INFO - User clicked on account button
+2022-12-16 11:38:09,582 - logger_File -INFO - User sent all required information
+2022-12-16 11:38:09,646 - logger_File -INFO - User clicked on change password button
+2022-12-16 11:38:14,682 - logger_File -INFO - A successful password updated message appears
+2022-12-16 11:38:19,817 - logger_File -INFO - User clicked on orders button
+2022-12-16 11:38:19,908 - logger_File -INFO - User clicked on account button
+2022-12-16 11:38:20,127 - logger_File -INFO - User sent all required information again
+2022-12-16 11:38:20,205 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-12-16 11:38:25,237 - logger_File -INFO - A successful password updated message appears
+2022-12-16 11:38:44,762 - logger_File -INFO - Shop by Category (text) should be visible in homepage prior to signing in
+2022-12-16 11:38:44,870 - logger_File -INFO - User clicked on signIn button
+2022-12-16 11:38:45,064 - logger_File -INFO - User sent both email and password
+2022-12-16 11:38:45,128 - logger_File -INFO - User clicked on log in button
+2022-12-16 11:38:45,464 - logger_File -INFO - User should be able to see logout button
+2022-12-16 11:38:45,577 - logger_File -INFO - User clicked on account button
+2022-12-16 11:38:45,878 - logger_File -INFO - User sent all required information
+2022-12-16 11:38:45,942 - logger_File -INFO - User clicked on change password button
+2022-12-16 11:38:50,974 - logger_File -INFO - A successful password updated message appears
+2022-12-16 11:38:56,155 - logger_File -INFO - User clicked on orders button
+2022-12-16 11:38:56,263 - logger_File -INFO - User clicked on account button
+2022-12-16 11:38:56,508 - logger_File -INFO - User sent all required information again
+2022-12-16 11:38:56,580 - logger_File -INFO - User clicked on change password button again to revert to original password
+2022-12-16 11:39:01,604 - logger_File -INFO - A successful password updated message appears
