@@ -15,7 +15,7 @@ Feature: Sign In Feature
     And User click on Create New Account button
     And User fill the signUp information with below data
       | name     | email                          | password  | confirmPassword |
-      | FaizalReshad | klm7577878@tekschool.us | Tek@12347 | Tek@12347       |
+      | FaizalReshad | lm7577878@tekschool.us | Tek@12347 | Tek@12347       |
     And User click on SignUp button
     Then User should be logged into account page
     
